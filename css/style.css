@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/cdubanner.jpg);
+    background-image: url(../images/banner2.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -224,7 +224,7 @@ button {
 .header_bg {
     width: 100%;
     float: left;
-    background-image: url(../images/header-bg.png);
+    background-image: url(../images/cdubanner.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -288,7 +288,7 @@ button {
 .login_bt li a {
     float: left;
     font-size: 18px;
-    color: #d98473;
+    color: #1F1945;
     text-transform: uppercase;
     padding: 0px 0px 0px 50px;
 }
@@ -326,7 +326,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #e38773;
+    color: orange;
     font-weight: bold;
 }
 
@@ -353,7 +353,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d48272;
+    background-color: #1F1945;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -427,6 +427,8 @@ button {
     width: 100%;
     float: left;
     text-align: center;
+    padding-right: 100px;
+    padding-bottom: 50px;
 }
 
 
@@ -463,9 +465,9 @@ button {
     text-align: center;
 }
 
-.coffee_img img {
+.courses_img img {
     width: 100%;
-    float: left;
+    float: middle;
 }
 
 .types_text {
@@ -499,10 +501,10 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #d78373;
+    color: #1F1945;
     text-align: center;
     border-radius: 5px;
-    border: 1px solid #d78373;
+    border: 1px solid #1F1945;
     text-transform: uppercase;
     padding: 8px;
 }
@@ -639,7 +641,6 @@ button {
 .client_section {
     width: 100%;
     float: left;
-    background-image: url(../images/client-bg.png);
     height: auto;
     background-size: 100% 100%;
     padding-bottom: 50px;
@@ -827,7 +828,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 16px;
     color: #fefefd;
-    background-color: #d07d6b;
+    background-color: #1F1945;
     padding: 10px;
     text-transform: uppercase;
     margin-top: 20px;
@@ -858,7 +859,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     height: auto;
-    background-image: url(../images/footer-bg.png);
+    background-image: url(../images/bg.jpg);
     background-size: 100% 100%;
     padding: 90px 0px 0px 0px;
 }
@@ -991,7 +992,7 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 13px 0px 14px 0px;
-    background-color: #d07d6b;
+    background-color: #1F1945;
     text-transform: uppercase;
     text-align: center;
 }
@@ -1010,7 +1011,7 @@ textarea#comment.update_mail::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #d07d6b;
+    background-color: #1F1945;
     height: auto;
 }
 
