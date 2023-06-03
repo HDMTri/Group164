@@ -771,6 +771,7 @@ button {
 .mail_section_1 {
     width: 50%;
     margin: 0 auto;
+    padding-top: 20px
 }
 
 .mail_text {
@@ -862,7 +863,6 @@ textarea#comment.message-bt::placeholder {
     font-size: 30px;
     color: #fefefd;
     font-weight: bold;
-    padding-bottom: 50px;
 }
 
 .footer_text {
@@ -877,7 +877,6 @@ textarea#comment.message-bt::placeholder {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    padding-top: 50px;
 }
 
 .location_text ul {
